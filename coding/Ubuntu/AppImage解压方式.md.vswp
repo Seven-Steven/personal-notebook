@@ -1,0 +1,5 @@
+vnote_backup_file_826537664 /home/seven/Documents/vnote_notebooks/vnotebook/coding/Ubuntu/AppImage解压方式.md
+# AppImage解压方式
+```
+./XXXXX.AppImage --appimage-extract
+```
